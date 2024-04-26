@@ -1,3 +1,5 @@
+c_stdlib:
+- vs
 channel_sources:
 - conda-forge
 channel_targets:
@@ -13,4 +15,4 @@ target_platform:
 variant:
 - novtk
 vtk:
-- 9.2.5
+- 9.2.6
